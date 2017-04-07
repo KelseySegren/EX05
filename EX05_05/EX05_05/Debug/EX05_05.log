@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(13): error C3646: 'description': unknown override specifier
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(16): error C2061: syntax error: identifier 'string'
+  Transaction.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.h(17): error C2065: 'Transaction': undeclared identifier
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.h(17): error C2923: 'std::vector': 'Transaction' is not a valid template type argument for parameter '_Ty'
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.h(17): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.h(36): warning C4624: 'Account': destructor was implicitly defined as deleted
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.cpp(18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.cpp(26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Account.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(13): error C3646: 'description': unknown override specifier
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\transaction.h(16): error C2061: syntax error: identifier 'string'
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.cpp(61): error C2661: 'Transaction::Transaction': no overloaded function takes 4 arguments
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_05\ex05_05\account.cpp(68): error C2661: 'Transaction::Transaction': no overloaded function takes 4 arguments
+  Generating Code...

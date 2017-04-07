@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\myvector.h(44): warning C4018: '<': signed/unsigned mismatch
+  c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\myvector.h(40): note: while compiling class template member function 'void MyVector<std::string>::swap(MyVector<std::string>)'
+  c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\main.cpp(40): note: see reference to function template instantiation 'void MyVector<std::string>::swap(MyVector<std::string>)' being compiled
+  c:\users\kelsey\documents\school assignments\cs2\ex05\ex05_03\ex05_03\main.cpp(26): note: see reference to class template instantiation 'MyVector<std::string>' being compiled
+  EX05_03.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX05\EX05_03\Debug\EX05_03.exe
+  EX05_03.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX05\EX05_03\Debug\EX05_03.pdb (Full PDB)
